@@ -1,4 +1,5 @@
+
 # Github and git confilct
-# CSC-4110_Assignment1
+# Github and git
 Masuma Jahan
 gy7551
